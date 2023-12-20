@@ -19,7 +19,7 @@ import java.util.Objects;
 @ToString
 @RequiredArgsConstructor
 @Entity
-@Table(name = "lancamento", schema = "financas")
+@Table(name = "lancamento", schema = "railway")
 public class Lancamento {
 
     @Id
